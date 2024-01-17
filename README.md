@@ -1,3 +1,3 @@
 # simple_weather_app
 
-A new Flutter project.
+A simple weather app that shows hardcoded data in a UI.
